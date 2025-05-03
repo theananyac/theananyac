@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/views
+[https://img.shields.io/badge/views](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 ### Skills
 
 <p align="left">
