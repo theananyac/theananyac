@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 ## Skills
 
 <p align="left">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
-
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
