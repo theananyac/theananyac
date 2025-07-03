@@ -1,5 +1,6 @@
 Hi 👋, I'm Ananya C
 =========================
+-> 📫 Reach out to me at ananyaanuc@gmail.com
 <!--
 *theananyac/theananyac* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
