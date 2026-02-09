@@ -1,6 +1,7 @@
 Hi 👋, I'm Ananya C
 =========================
 📫 Reach out to me at ananyaanuc@gmail.com
+🌐 My Portfolio: https://ananya-c.netlify.app/
 <!--
 *theananyac/theananyac* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
