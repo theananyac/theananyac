@@ -48,7 +48,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> 
     </picture> 
   </a> 
-  <t>
+  <t></t>
   <a href="https://www.linkedin.com/in/ananya-c-26b4ba258" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
